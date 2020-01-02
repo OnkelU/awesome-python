@@ -2,6 +2,8 @@
 
 Your contributions are always welcome!
 
+* Bitte sende eine Email an: lieblings_kollege@firma.de
+
 ## Guidelines
 
 * Add one link per Pull Request.
@@ -16,4 +18,3 @@ Your contributions are always welcome!
 * Don't mention `Python` in the description as it's implied.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
-
